@@ -1,4 +1,0 @@
-Manifest-Version: 1.0
-Created-On: 2017-12-15T08:35:09.707Z
-Appian-Version: 17.1.0.0
-
